@@ -32,11 +32,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zu8k&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github.com/zuc8k" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zu8k&theme=tokyonight&hide_border=true" />
+  <img src="https://github.com/zuc8k" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="#"><img src="https://youtube.com/@boodyhsn-"/></a>
   <a href="https://github.com/Zu8k"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
