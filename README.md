@@ -30,16 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1450519852937773180/1453495933177303080/IMG_9847.gif" />
-</p>
-
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1450519852937773180/1453495933177303080/IMG_9847.gif" />
-</p>
-
----
 
 ## 🌍 Find Me Around The Web
 <p align="center">
