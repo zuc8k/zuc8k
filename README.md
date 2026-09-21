@@ -94,7 +94,7 @@
   <a href="https://discord.gg/botserver" title="Hosting Support">
     <img src="https://img.shields.io/badge/Hosting_Support-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://github.com/Zu8k" title="GitHub">
+  <a href="https://github.com/zuc8k" title="GitHub">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
