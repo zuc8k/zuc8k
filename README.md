@@ -40,41 +40,6 @@
 
 ---
 
-## 🚀 My Projects
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🎯 Zucks Bot</h3>
-      <p>All-in-One Discord Bot with Dashboard</p>
-      <a href="https://zuck.ddns.net/en/">
-        <img src="https://img.shields.io/badge/Visit-Website-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>🎵 Zucks Music</h3>
-      <p>High-Quality Discord Music Bot</p>
-      <a href="http://zucksmusic.ddns.net/">
-        <img src="https://img.shields.io/badge/Visit-Website-FF0055?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <h3>☁️ Bot Server — Premium Hosting</h3>
-      <p>Reliable & Fast Discord Bot Hosting</p>
-      <a href="https://bot-server.site">
-        <img src="https://img.shields.io/badge/Visit-Website-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-      </a>
-      <a href="https://discord.gg/botserver">
-        <img src="https://img.shields.io/badge/Join-Support_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🌍 Find Me Around The Web
 
 <p align="center">
