@@ -4,7 +4,7 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Boody Zuckerberg</h1>
+<h1 align="center">Hi 👋, I'm Zucks </h1>
 <h3 align="center">Professional Full-Stack Web Developer & Discord Bot Developer</h3>
 
 <p align="center">
