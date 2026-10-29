@@ -48,11 +48,6 @@
 
 ---
 
-## 🧠 Quote I Live By
-
-> *"Code is not just code, it's a mindset."*
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zu8k&label=Profile+Views&color=00C2FF&style=flat" />
