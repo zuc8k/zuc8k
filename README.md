@@ -40,32 +40,6 @@
 
 ---
 
-## 🌍 Find Me Around The Web
-
-<p align="center">
-  <a href="https://zuck.ddns.net/en/" title="Zucks Bot">
-    <img src="https://img.shields.io/badge/Zucks_Bot-00C2FF?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="http://zucksmusic.ddns.net/" title="Zucks Music">
-    <img src="https://img.shields.io/badge/Zucks_Music-FF0055?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://bot-server.site" title="Bot Server Hosting">
-    <img src="https://img.shields.io/badge/Bot_Server_Hosting-7C3AED?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  </a>
-  <br><br>
-  <a href="https://discord.gg/zucks" title="Zucks Support">
-    <img src="https://img.shields.io/badge/Support_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/botserver" title="Hosting Support">
-    <img src="https://img.shields.io/badge/Hosting_Support-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://github.com/zuc8k" title="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 💼 Services
 
 <p align="center">
