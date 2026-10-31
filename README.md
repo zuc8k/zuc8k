@@ -1,7 +1,7 @@
  <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=ZUCKS;SOFTWARE+ENGINEER;FULL-STACK+DEVELOPER;SYSTEMS+%26+SECURITY+ENGINEER;BUILDING+BEYOND+LIMITS" />
 <br>
-<h1>⚡ Z U C K S</h1>
+<h1>Z U C K S</h1>
 
 SOFTWARE ENGINEER • FULL-STACK DEVELOPER
 
